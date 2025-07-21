@@ -1,7 +1,4 @@
 # WindowsOptimizer
-<p align="center">
-  <img src="[https://media.discordapp.net/attachments/1396902883340976248/1396904529932325036/Untitled-1.png](https://cdn.discordapp.com/attachments/1396902883340976248/1396904529932325036/Untitled-1.png?ex=687fc839&is=687e76b9&hm=75acc559d47e4b52e2f39a998b184f3fc207bcc975cab35ed4240cd2608569ba&)" width="200" alt="Windows Optimizer Logo" />
-</p>
 
 > A powerful, customizable Windows Tweaks & App Installer GUI tool  
 > Simplify optimizing your Windows experience with curated tweaks and one-click installs.
